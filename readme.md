@@ -42,7 +42,7 @@ I'm a student and builder who likes turning research-grade AI ideas into working
 <p> <img src="https://skillicons.dev/icons?i=react,vite,html,css,flutter"/> </p>
 
 ### Backend & Database
-<p> <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,mongodb,postgres"/> </p>
+<p> <img src="https://skillicons.dev/icons?i=java,fastapi,nodejs,express,mongodb,postgres"/> </p>
 
 ### Tools & Platforms
 <p> <img src="https://skillicons.dev/icons?i=git,github,vscode,figma"/> </p>
