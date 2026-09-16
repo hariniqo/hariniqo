@@ -15,21 +15,21 @@
 ## ■ About Me
 
 ```yaml
-name: Harini
-degree: B.Tech Artificial Intelligence & Data Science
-role: Java Spring Boot Full Stack Developer (in training)
-focus:
+Name: Harini
+Degree: B.Tech Artificial Intelligence & Data Science
+Role: Java Spring Boot Full Stack Developer (in training)
+Focus:
   - Java + Spring Boot backend development
   - React JS frontend
   - Applied AI in full-stack products
-currently_learning:
+Currently_learning:
   - Spring Boot full-stack development
   - DSA & problem solving (Core Java)
   - System design fundamentals
-mindset: Learn → Build → Share → Improve
+Mindset: Learn → Build → Share → Improve
 ```
 
-3rd-year B.Tech student building toward a Software Developer role, going deep on the Java + Spring Boot + React stack. I like taking projects from idea to something people actually use — an inclusive AI learning platform, an ML-driven agriculture system — while staying sharp on DSA daily.
+III rd-year B.Tech student building toward a Software Developer role, going deep on the Java + Spring Boot + React stack. I like taking projects from idea to something people actually use — an inclusive AI learning platform, an ML-driven agriculture system — while staying sharp on DSA daily.
 
 ---
 
@@ -39,7 +39,7 @@ mindset: Learn → Build → Share → Improve
 <p> <img src="https://skillicons.dev/icons?i=java,python,c,js,html,css"/> </p>
 
 ### Backend
-<p> <img src="https://skillicons.dev/icons?i=java,spring,flask"/> </p>
+<p> <img src="https://skillicons.dev/icons?i=java,spring"/> </p>
 
 ### Frontend
 <p> <img src="https://skillicons.dev/icons?i=react,html,css"/> </p>
@@ -69,7 +69,7 @@ Full-Stack Projects, Shipped
 ### Currently Exploring
 - Spring Boot REST API design
 - Core Java problem solving (DSA patterns)
-- Cloud & AI fundamentals (Microsoft Skill Fest)
+- Cloud & AI fundamentals
 - System design basics for interviews
 
 ---
@@ -78,7 +78,7 @@ Full-Stack Projects, Shipped
 
 ### ■ AI Visualized Learning Platform
 An AI-powered learning platform delivering personalized learning paths, progress tracking, and accessibility features for 100+ students — including learners with visual, hearing, and learning disabilities.
-*Aug 2026 – Present*
+*Nov 2026 – Present*
 
 **Tech Stack:**
 `Java` `React.js` `MySQL` `Python`
@@ -87,7 +87,7 @@ An AI-powered learning platform delivering personalized learning paths, progress
 
 ### ■ Sustainable Agriculture System
 A machine-learning system using agricultural datasets, weather forecasting, and multiple AI agents to give data-driven recommendations to 1000+ farmers, improving productivity and sustainability.
-*Jun 2026 – Present*
+*Sep 2026 – Present*
 
 **Tech Stack:**
 `Python` `Scikit-learn` `Pandas` `Flask` `MySQL`
