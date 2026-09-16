@@ -1,9 +1,9 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi,%20I'm%20Harini&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Software%20Engineer%20%7C%20Builder&descAlignY=58&descSize=18"/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+AI-powered+agritech+platforms;Learning+the+MERN+stack;Exploring+multi-agent+AI+systems;Turning+ideas+into+real+projects" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi,%20I'm%20Harini&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Spring%20Boot%20Full%20Stack%20Developer&descAlignY=58&descSize=18"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Java+%7C+Spring+Boot+%7C+React;Building+full-stack+products+end+to+end;Solving+DSA+daily+on+LeetCode+%26+HackerRank;Turning+ideas+into+real+projects" alt="Typing SVG" />
 <br/><br/>
 <img src="https://img.shields.io/badge/EDUCATION-B.Tech%20AI%20%26%20Data%20Science-6D28D9?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/FOCUS-AI%20%26%20Full%20Stack%20Engineering-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FOCUS-Java%20Spring%20Boot%20Full%20Stack-7C3AED?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/BASED%20IN-Tamil%20Nadu%2C%20India-4C1D95?style=for-the-badge"/>
 <br/><br/>
 <a href="mailto:rharini938@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
@@ -17,91 +17,97 @@
 ```yaml
 name: Harini
 degree: B.Tech Artificial Intelligence & Data Science
-role: Aspiring AI Engineer / Software Engineer
+role: Java Spring Boot Full Stack Developer (in training)
 focus:
-  - Multi-agent AI systems
-  - Full-stack web development (MERN)
-  - AgriTech & applied AI research
+  - Java + Spring Boot backend development
+  - React JS frontend
+  - Applied AI in full-stack products
 currently_learning:
-  - MERN stack (24-week self-paced roadmap)
-  - DSA & system design
-  - Agentic developer tools
+  - Spring Boot full-stack development
+  - DSA & problem solving (Core Java)
+  - System design fundamentals
 mindset: Learn → Build → Share → Improve
 ```
 
-I'm a student and builder who likes turning research-grade AI ideas into working products — from multi-agent agricultural platforms to hackathon-speed financial engines. Currently deep in a structured prep roadmap while shipping side projects end to end.
+3rd-year B.Tech student building toward a Software Developer role, going deep on the Java + Spring Boot + React stack. I like taking projects from idea to something people actually use — an inclusive AI learning platform, an ML-driven agriculture system — while staying sharp on DSA daily.
 
 ---
 
 ## ■■ Tech Stack
 
 ### Programming Languages
-<p> <img src="https://skillicons.dev/icons?i=python,java,js,c,html,css"/> </p>
+<p> <img src="https://skillicons.dev/icons?i=java,python,c,js,html,css"/> </p>
+
+### Backend
+<p> <img src="https://skillicons.dev/icons?i=java,spring,flask"/> </p>
 
 ### Frontend
-<p> <img src="https://skillicons.dev/icons?i=react,vite,html,css,flutter"/> </p>
+<p> <img src="https://skillicons.dev/icons?i=react,html,css"/> </p>
 
-### Backend & Database
-<p> <img src="https://skillicons.dev/icons?i=java,fastapi,nodejs,express,mongodb,postgres"/> </p>
+### Database
+<p> <img src="https://skillicons.dev/icons?i=mysql"/> </p>
 
-### Tools & Platforms
-<p> <img src="https://skillicons.dev/icons?i=git,github,vscode,figma"/> </p>
+### Tools
+<p> <img src="https://skillicons.dev/icons?i=git,github,idea,windows"/> </p>
 
 ---
 
 ## ■ My Learning Journey
 
 ```text
-AI & Data Science Fundamentals
+Programming Foundations (Java, C, Python)
         ↓
-Programming (Python, Java, C, JS)
+OOP, DSA & Algorithms
         ↓
-Full-Stack Development (MERN)
+Java + Spring Boot Backend
         ↓
-Multi-Agent AI Systems
+React JS Frontend
         ↓
-Research + Real-World Products
+Full-Stack Projects, Shipped
 ```
 
 ### Currently Exploring
-- Multi-agent orchestration & LLM-narrated decision systems
-- Event-sourced backend architectures
-- System design fundamentals for interview prep
-- Agentic coding tools for rapid prototyping
+- Spring Boot REST API design
+- Core Java problem solving (DSA patterns)
+- Cloud & AI fundamentals (Microsoft Skill Fest)
+- System design basics for interviews
 
 ---
 
 ## ■ Featured Projects
 
-### ■ TerraMind-X
-A multi-agent AI decision support platform for smallholder farmers in Tamil Nadu, combining satellite data, market forecasting, and a novel diffusion model that predicts herd-planting price crashes before they happen. Built toward a research paper and startup track.
+### ■ AI Visualized Learning Platform
+An AI-powered learning platform delivering personalized learning paths, progress tracking, and accessibility features for 100+ students — including learners with visual, hearing, and learning disabilities.
+*Aug 2026 – Present*
 
 **Tech Stack:**
-`FastAPI` `Supabase/PostGIS` `React` `Flutter` `Groq LLM` `Google Earth Engine`
+`Java` `React.js` `MySQL` `Python`
 
 ---
 
-### ■ Vizoria AI
-An AI-powered platform that converts academic concepts into story-driven, animated educational videos.
+### ■ Sustainable Agriculture System
+A machine-learning system using agricultural datasets, weather forecasting, and multiple AI agents to give data-driven recommendations to 1000+ farmers, improving productivity and sustainability.
+*Jun 2026 – Present*
 
 **Tech Stack:**
-`React` `TypeScript` `Vite` `Claude API`
+`Python` `Scikit-learn` `Pandas` `Flask` `MySQL`
 
 ---
 
-### ■ LedgerTrue
-An event-sourced real-time financial reconciliation engine built for a buildathon, tackling the "Ghost Balance" problem with an immutable transaction state machine and a live reconciliation dashboard.
+## ■ Experience
 
-**Tech Stack:**
-`Node.js` `Express` `MongoDB` `Redis Streams` `React` `Socket.io`
+**GenAI Powered Data Analytics Virtual Experience Program — Forage** · *Jun 2026*
+- Conducted exploratory data analysis and risk profiling on business datasets
+- Applied AI techniques to predict delinquency and support decision-making
+- Developed business reports and data storytelling recommendations
 
 ---
 
-### ■ SoilSense NPK-X
-A handheld electrochemical soil nutrient analyzer concept for smallholder farmers, measuring NPK, pH, and EC in the field.
-
-**Tech Stack:**
-`Embedded Systems` `Electrochemical Sensing`
+## ■ Achievements & Certifications
+- **Microsoft Skill Fest** — badge earned for completing cloud and AI learning modules
+- **The Joy of Computing Using Python (NPTEL)** — Elite score, 85%
+- **Introduction to IoT (NPTEL)** — Elite score, 75%
+- Active on **LeetCode**, **HackerRank**, and **GeeksforGeeks** — solving DSA and Core Java problems consistently
 
 ---
 
@@ -109,17 +115,17 @@ A handheld electrochemical soil nutrient analyzer concept for smallholder farmer
 
 ```yaml
 learning:
-  - MERN stack
-  - DSA (pattern-based) & system design
+  - Java + Spring Boot full-stack development
+  - DSA (pattern-based)
 building:
-  - TerraMind-X (research paper + startup push)
-  - LedgerTrue
+  - AI Visualized Learning Platform
+  - Sustainable Agriculture System
 exploring:
-  - Multi-agent AI architectures
-  - AgriTech applications of AI
+  - Cloud & AI fundamentals
+  - System design basics
 goal:
-  - Software/AI Engineer role at a top product company
-  - Long-term: build and lead an AI-driven startup
+  - Land a Software Developer role
+  - Grow into a strong Java full-stack engineer
 ```
 
 ---
